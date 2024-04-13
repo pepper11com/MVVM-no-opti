@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clean Architecture Sample</string>
+    <string name="retry">Retry</string>
+    <string name="retry_message">Something went wrong. Please try again.</string>
+    <string name="photo_app_name">Photo App</string>
+
+</resources>
